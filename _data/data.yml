@@ -51,7 +51,7 @@ education:
 experiences:
     - role: Full Stack Developer at "Leseo" project
       time: 2017 - 2020
-      company: Cornelsen Verlag GmbH
+      company: Cornelsen Verlag GmbH, Berlin
       details: |
         Leseo is an digital platform for primary school. There are a lot of digital books that students can read on their own. But their teachers can also assign tasks to them. The platform analyses how good the child is at reading and suggests simpler or more extensive books to the teacher.
           - Fontend: Angular 9, NgRx, TypeScript, SCSS
@@ -65,7 +65,7 @@ experiences:
           
     - role: Frontend Developer at "scook.de" project
       time: 2015 - 2017
-      company: Cornelsen Verlag GmbH
+      company: Cornelsen Verlag GmbH, Berlin
       details: |
         On scook.de students and teacher can read digital Cornelsen books. 
           - agile softwaredevelopment (SCRUM)
