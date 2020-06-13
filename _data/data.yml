@@ -49,7 +49,7 @@ education:
       details: |
         Media Informatics
 experiences:
-    - role: Fullstack Developer at "Leseo" project
+    - role: Full Stack Developer at "Leseo" project
       time: 2017 - 2020
       company: Cornelsen Verlag GmbH
       details: |
@@ -72,7 +72,7 @@ experiences:
           - Transformation of an existing internet platform (scook.de) to AngularJS; optimize frontend; split monolitic application into small modules
           - build "scook offine" client with Electron
 
-    - role: Fullstack Developer
+    - role: Full Stack Developer
       time: 2011 - 2015
       company: Smarthouse Media GmbH, Karlsruhe/Berlin 
       details: |
