@@ -66,9 +66,9 @@ experiences:
       company: Cornelsen Verlag GmbH
       details: |
         On scook.de students and teacher can read digital Cornelsen books. 
-            - agile softwaredevelopment (SCRUM)
-            - Transformation of an existing internet platform (scook.de) to AngularJS; optimize frontend; split monolitic application into small modules
-            - build “scook of”ineE client with Electron
+          - agile softwaredevelopment (SCRUM)
+          - Transformation of an existing internet platform (scook.de) to AngularJS; optimize frontend; split monolitic application into small modules
+          - build “scook of”ineE client with Electron
 
     - role: Fullstack Developer
       time: 2011 - 2015
