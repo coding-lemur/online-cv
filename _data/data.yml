@@ -15,15 +15,15 @@ sidebar:
     email: mail@reneschimmelpfennig.de
     phone: 
     website: www.reneschimmelpfennig.de #do not add http://
-    linkedin: 
+    #linkedin: 
     github: MCeddy
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #gitlab:
+    #bitbucket:
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: German
@@ -39,12 +39,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hey, I'm René Schimmelpfennig. Softwaredeveloper with passion.
 education:
     - degree: Bachelor of Sciences
       university: Beuth University of Applied Sciences Berlin
@@ -52,43 +47,50 @@ education:
       details: |
         Media Informatics
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Web Developer at "Leseo" project
+      time: 2017 - 2020
+      company: Cornelsen Verlag GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Leseo is an digital platform for primary school children. There are a lot of digital books that students can read on their own. But their teachers can also assign tasks to them. The platform analyses how good the child is at reading and suggests simpler or more extensive books to the teacher.
+          - Fontend: Angular 9, NgRx, TypeScript, SCSS
+          - Backend: asp.net core 2.3
+          - Testing frameworks: xUnit, Jest and Cypress
+          - agile softwaredevelopment (SCRUM) 
+          - technical project architecture/conception of "Leseo" platform
+          - connection to internal and external services (CMS, OpenID Connect service, licence manangement system)
+          - setup deployment pipeline (Docker)
+          - Presentation of the product at trade fairs (Didacta 2019 Cologne)
+          
+    - role: Frontend Developer at "scook.de" project
+      time: 2015 - 2017
+      company: Cornelsen Verlag GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        On scook.de students and teacher can read digital Cornelsen books. 
+            - agile softwaredevelopment (SCRUM)
+            - Transformation of an existing internet platform (scook.de) to AngularJS; optimize frontend; split monolitic application into small modules
+            - build “scook of”ineE client with Electron
+
+    - role: Fullstack Developer
+      time: 2011 - 2015
+      company: Smarthouse Media GmbH, Karlsruhe/Berlin 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Smarthouse has specialized in financial service providers
+          - Webdevelopment for fnancial service providers (with ASP.Net Webforms)
+          - Webdesign (XTML, CSS, JavaScript, Responsive Design)
+          - Data conversion (CSV, XML, JSON)
+          - Microsoft SQL Server (database design)
+          - Distribution of responsibilities, deployments, process optimizations and documentation
+          
+    - role: Freelance Softwaredeveloper
+      time: 2009 - 2011
+      company: Capital Health Hospital Group GmbH, Berlin 
+      details: |
+        Capital Health operates the CityPraxen in Berlin, a group of medical practices for primarily private patients. A patient management platform was developed for them.
+          - Design and development of an own administration system for medical practices (C, Silverlight/WPF, MVVM-Pattern, SOAP WebService, SQL Server) 
+          - Webdesign (HTML, CSS, JavaScript, Responsive Design)
+          - Data conversion (CSV, XML, JSON)
+          - Microsoft SQL Server (database design)
+          - Distribution of responsibilities, deployments, process optimizations and documentation
 projects:
     title: Projects
     intro: >
