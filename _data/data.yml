@@ -51,13 +51,16 @@ education:
       details: |
         Media Informatics
 experiences:
-    - role: Full Stack Developer at "Mathe Exercises" project
-    - time: Apr 2020 - today
-    - company: Cornelsen Verlag GmbH, Berlin
-    - details: |
-        Generate new interactive exercises formats with Angular for integration Moodle.
+    - role: Full Stack Developer
+      time: Apr 2020 - today
+      company: Cornelsen Verlag GmbH, Berlin
+      details: |
+        - "Math exercises" project (Apr 2020 - today). Generate new interactive exercises formats with Angular for integration Moodle.
             - Frontend: Angular 10, NgRX, TypeScript, SCSS
             - Backend: asp.net core 3.1
+        - "Leseo" project (Dec 2017 - Apr 2020)
+            - Fontend: Angular 9, NgRx, TypeScript, SCSS
+            - Backend: asp.net core 2.3
             
     - role: Full Stack Developer at "Leseo" project
       time: Dec 2017 - Apr 2020
