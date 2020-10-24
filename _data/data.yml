@@ -56,8 +56,8 @@ experiences:
       company: Cornelsen Verlag GmbH, Berlin
       details: |
         Generate new interactive exercises formats with Angular for integration Moodle.
-            - Frontend: Angular 10, NgRX, TypeScript, SCSS
-            - Backend: asp.net core 3.1
+        - Frontend: Angular 10, NgRX, TypeScript, SCSS
+        - Backend: asp.net core 3.1
             
     - role: Full Stack Developer at "Leseo" project
       time: Dec 2017 - Mar 2020
