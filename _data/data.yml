@@ -51,19 +51,16 @@ education:
       details: |
         Media Informatics
 experiences:
-    - role: Full Stack Developer
+    - role: Full Stack Developer at "Math exercises" project
       time: Apr 2020 - today
       company: Cornelsen Verlag GmbH, Berlin
       details: |
-        - "Math exercises" project (Apr 2020 - today). Generate new interactive exercises formats with Angular for integration Moodle.
+        Generate new interactive exercises formats with Angular for integration Moodle.
             - Frontend: Angular 10, NgRX, TypeScript, SCSS
             - Backend: asp.net core 3.1
-        - "Leseo" project (Dec 2017 - Apr 2020)
-            - Fontend: Angular 9, NgRx, TypeScript, SCSS
-            - Backend: asp.net core 2.3
             
     - role: Full Stack Developer at "Leseo" project
-      time: Dec 2017 - Apr 2020
+      time: Dec 2017 - Mar 2020
       company: Cornelsen Verlag GmbH, Berlin
       details: |
         Leseo is an digital platform for primary school. There are a lot of digital books that students can read on their own. But their teachers can also assign tasks to them. The platform analyses how good the child is at reading and suggests simpler or more extensive books to the teacher.
