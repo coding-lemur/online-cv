@@ -66,7 +66,11 @@ experiences:
       details: |
         "Lunchtime" is an intranet webapp to meet colleagues from other departments. You go out to dinner together and exchange ideas.
           - Frontend: Angular 9, TypeScript
-          - Backend: asp.net core 3.1 + Azure Functions (C#) for time triggered jobs
+          - Backend: asp.net core 3.1
+          - Azure Functions (C#) for time triggered jobs
+          - Microsoft Teams integration
+          - send appointment e-mails
+          - Office 365 single sign on integration
           - CI: Azure DevOps
             
     - role: Full Stack Developer at "Leseo" project
