@@ -35,7 +35,7 @@ sidebar:
     interests:
       - item: cycling
         link:
-      - item: IoT/Smarthome
+      - item: IoT/Smarthome (Home-Assistant, EPS32)
         link:
       - item: retro games
         link:
@@ -52,7 +52,7 @@ education:
         Media Informatics
 experiences:
     - role: Full Stack Developer at "Math exercises" project
-      time: Apr 2020 - today
+      time: Apr 2020 - Dec 2020
       company: Cornelsen Verlag GmbH, Berlin
       details: |
         Generate new interactive exercises formats with Angular for integration Moodle.
@@ -61,7 +61,7 @@ experiences:
         - CI: Azure DevOps
         
     - role: Full Stack Developer at "Lunchtime" project
-      time: Apr 2020 - today
+      time: Apr 2020 - Dec 2020
       company: Cornelsen Verlag GmbH, Berlin
       details: |
         "Lunchtime" is an intranet webapp to meet colleagues from other departments. You go out to dinner together and exchange ideas.
