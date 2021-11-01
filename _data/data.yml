@@ -130,17 +130,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: React
+        level: 80%
+    
       - name: Angular & ngrx
         level: 100%
         
-      - name: .net core
+      - name: .net
         level: 100%
 
       - name: nodejs
         level: 100%
         
       - name: vue.js
-        level: 70%
+        level: 40%
 
       - name: HTML5 & (S)CSS
         level: 100%
@@ -155,7 +158,7 @@ skills:
         level: 70%
       
       - name: Azure
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
