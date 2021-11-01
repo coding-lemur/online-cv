@@ -51,6 +51,14 @@ education:
       details: |
         Media Informatics
 experiences:
+    - role: Full Stack Developer
+      time: Mar 2021 - today
+      company: LQ Enterprise GmbH
+      details: |
+        developing disruptive digital platforms and offers strategic, change and digital transformation for public institutions
+        - Frontend: React
+        - Backend: Asp.net
+             
     - role: Full Stack Developer at "Math exercises" project
       time: Apr 2020 - Dec 2020
       company: Cornelsen Verlag GmbH, Berlin
