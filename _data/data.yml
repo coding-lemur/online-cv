@@ -141,9 +141,6 @@ skills:
 
       - name: nodejs
         level: 100%
-        
-      - name: vue.js
-        level: 40%
 
       - name: HTML5 & (S)CSS
         level: 100%
