@@ -53,10 +53,10 @@ education:
 experiences:
     - role: Full Stack Developer
       time: Mar 2021 - today
-      company: LQ Enterprise GmbH
+      company: LambdaQoppa Enterprise GmbH, Berlin
       details: |
         developing disruptive digital platforms and offers strategic, change and digital transformation for public institutions
-        - Frontend: React
+        - Frontend: React & Redux
         - Backend: Asp.net
              
     - role: Full Stack Developer at "Math exercises" project
