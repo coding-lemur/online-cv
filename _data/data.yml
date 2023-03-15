@@ -12,9 +12,9 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mail@reneschimmelpfennig.de
+    email: rene@coding-lemur.de
     #phone: 
-    website: www.reneschimmelpfennig.de #do not add http://
+    website: www.coding-lemur.de #do not add http://
     #linkedin: 
     github: coding-lemur
     #telegram: # add your nickname without '@' sign
@@ -125,13 +125,22 @@ experiences:
           - Data conversion (CSV, XML, JSON)
           - Microsoft SQL Server (database design)
           - Distribution of responsibilities, deployments, process optimizations and documentation 
+          
+    - role: Trainee Softwaredevelopment
+      time: 2004 - 2007
+      company: Sozial Software GmbH, Prenzlau
+      details: |
+        job training and developing a software for ambulatory care services.
+          - Visual Basic 6 based Desktop client
+          - Microsoft Access 97 database
+          - planning and maintenance of the software system
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: React
-        level: 80%
+        level: 100%
     
       - name: Angular & ngrx
         level: 100%
@@ -152,7 +161,7 @@ skills:
         level: 100%
         
       - name: Python
-        level: 70%
+        level: 80%
       
       - name: Azure
         level: 70%
