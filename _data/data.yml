@@ -57,7 +57,7 @@ experiences:
       details: |
         developing disruptive digital platforms and offers strategic, change and digital transformation for public institutions
         - Frontend: React & Redux
-        - Backend: Asp.net
+        - Backend: Asp.net (Source Generators, Entity Framework, Dotnet 8, Azure hosting)
              
     - role: Full Stack Developer at "Math exercises" project
       time: Apr 2020 - Dec 2020
