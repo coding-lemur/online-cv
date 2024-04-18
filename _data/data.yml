@@ -56,7 +56,7 @@ experiences:
       company: LambdaQoppa Enterprise GmbH, Berlin
       details: |
         developing disruptive digital platforms and offers strategic, change and digital transformation for public institutions
-        - Frontend: React & Redux
+        - Frontend: React (Vite, Redux, Bootstrap)
         - Backend: Asp.net (Source Generators, Entity Framework, Dotnet 8, Azure hosting)
              
     - role: Full Stack Developer at "Math exercises" project
