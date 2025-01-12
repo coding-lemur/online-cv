@@ -53,11 +53,11 @@ education:
 experiences:
     - role: Full Stack Developer
       time: Mar 2021 - today
-      company: LambdaQoppa Enterprise GmbH, Berlin
+      company: LambdaQoppa Enterprise GmbH, full-remote
       details: |
         developing disruptive digital platforms and offers strategic, change and digital transformation for public institutions
         - Frontend: React (Vite, Redux, Bootstrap)
-        - Backend: Asp.net (Source Generators, Entity Framework, Dotnet 8, Azure hosting)
+        - Backend: Asp.net (Source Generators, Entity Framework, Dotnet 8, Cloud hosting on Microsoft Azure)
              
     - role: Full Stack Developer at "Math exercises" project
       time: Apr 2020 - Dec 2020
